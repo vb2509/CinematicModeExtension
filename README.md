@@ -4,7 +4,7 @@ Adds features to the cinematic mode functionality in PlayerControllers of Unreal
 # Disclaimer
 I am not actively working on the plugin. You are free to fork this repo or make PRs but remember that merges will take time to complete due my limited availibility. If used in a commerical product, add my name to the credits.
 
-#Features 
+# Features 
 
 ## IsInCimenaticMode()
 Can be called in Blueprints to check if the player controller is in Cinematic mode. Oddly enough only the setter is accessible to Blueprints.
